@@ -29,6 +29,8 @@ tree.add(1, 5) // [1, 5]
 tree.remove(2, 3) // [1, 1], [4, 5]
 ```
 
+## API
+
 #### `const tree = new NonOverlappingIntervalTree()`
 
 Initialize the tree
