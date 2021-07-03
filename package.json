@@ -1,0 +1,38 @@
+{
+  "name": "nonoverlapping-interval-tree",
+  "version": "1.0.0",
+  "description": "Non-overlapping interval tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:lint && npm run test:tape",
+    "test:lint": "standard",
+    "test:tape": "tape ./tests/*.js"
+  },
+  "dependencies": {
+    "i2bplustree": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "latest",
+    "tape": "^5.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxhotel/nonoverlapping-interval-list.git"
+  },
+  "keywords": [
+    "interval",
+    "intervals",
+    "range",
+    "tree",
+    "nonoverlapping",
+    "non-overlapping",
+    "overlapping",
+    "data"
+  ],
+  "author": "Alex <alxmorais8@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxhotel/nonoverlapping-interval-tree/issues"
+  },
+  "homepage": "https://github.com/alxhotel/nonoverlapping-interval-tree#readme"
+}
