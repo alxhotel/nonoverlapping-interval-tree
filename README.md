@@ -57,4 +57,4 @@ Returns the total number of intervals.
 
 ## License
 
-MIT Copyright (c) [Alex](http://github.com/alxhotel)
+MIT. Copyright (c) [Alex](http://github.com/alxhotel)
